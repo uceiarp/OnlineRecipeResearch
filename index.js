@@ -6,7 +6,7 @@ var app = new PusherPlatform.App({
 
 console.log(app);
 
-var myFeed = app.feed('hackathonIdeas');
+var myFeed = app.feed('recipeResearch');
 
 load();
 
